@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "SFU Docs"
+  - url: /sfu_docs/
+  
   - title: "Research"
     url: /research/
     
@@ -12,11 +16,6 @@ main:
   - title: "Tutoring"
     url: /tutoring/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-    
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
