@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CAN"
-title                    : "Maude Best Lachaine \nQuantifies Uncertainty, Optimizes Experiments"
+title                    : "Maude Best Lachaine <\br>Quantifies Uncertainty, Optimizes Experiments"
 title_separator          : "-"
 name                     : &name "Maude Best"
 description              : &description "Computational Statistics"
