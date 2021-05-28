@@ -80,8 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maude, aka Grizzly Cassidy"
-  avatar           : "profile.jpg"
+  name             : "Maude Best Lachaine" 
+  surname          : "aka Grizzly Cassidy"
+  avatar           : "msc_pic.jpg"
   bio              : "Bio soon"
   location         : "Vancouver, BC"
   employer         : 
