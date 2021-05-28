@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-CAN"
-title                    : "Maude Best Lachaine Quantifies Uncertainty"
+title                    : "Maude Best Lachaine Quantifies Uncertainty, Optimizes Experiments"
 title_separator          : "-"
-name                     : &name "Maude Best Lachaine"
+name                     : &name "Maude Best"
 description              : &description "Computational Statistics"
 url                      : https://semaphore-maude.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
