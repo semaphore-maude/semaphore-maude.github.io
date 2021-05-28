@@ -4,14 +4,8 @@ main:
   - title: "SFU Docs"
   - url: /sfu_docs/
   
-  - title: "Research"
-    url: /research/
-    
   - title: "Projects"
     url: /projects/
-
-  - title: "Talks"
-    url: /talks/    
 
   - title: "Tutoring"
     url: /tutoring/    
