@@ -126,6 +126,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - .DS_Store
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
