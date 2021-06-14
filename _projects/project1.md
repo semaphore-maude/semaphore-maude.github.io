@@ -1,7 +1,7 @@
 ---
 title: "Project 1"
 collection: projects
-type: "Text Mining package"
+type: "projects"
 permalink: /projects/project1
 venue: "Big Data Hub, SFU"
 date: 2019-01-01
