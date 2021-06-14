@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CAN"
-title                    : "Maude Best Lachaine <br /> Quantifies Uncertainty, Optimizes Experiments"
+title                    : "Maude Lachaine <br /> Quantifies Uncertainty with Computational Statistics"
 title_separator          : "-"
 name                     : &name "Maude Best"
 description              : &description "Computational Statistics"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maude Best Lachaine"
+  name             : "Maude Lachaine"
   avatar           : "msc_pic.jpg"
-  bio              : "Bio soon"
+  bio              : ""            # ML! include bio
   location         : "Vancouver, BC"
   employer         : 
   school           : "Simon Fraser University"
@@ -104,11 +104,11 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/semaphore"
+  orcid            : #"http://orcid.org/semaphore"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "ladyvanda"
+  steam            : #"ladyvanda"
   tumblr           :
   twitter          : "@maude_ll"
   vine             :
