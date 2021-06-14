@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "SFU Docs"
-permalink: /docs/
+permalink: /sfu_docs/
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ author_profile: true
 Private section
 
 
-{% for post in site.docs %}
+{% for post in site.sfu_docs %}
   {% include archive-single.html %}
 {% endfor %}
 
