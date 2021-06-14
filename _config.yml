@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CAN"
-title                    : "##Maude Lachaine <br /> ####Quantifies Uncertainty with Computational Statistics"
+title                    : "Maude Lachaine <br /> Quantifies Uncertainty with Computational Statistics"
 title_separator          : "-"
 name                     : &name "Maude Lachaine"
 description              : &description "Computational Statistics"
