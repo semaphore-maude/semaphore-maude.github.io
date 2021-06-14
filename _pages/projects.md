@@ -5,8 +5,10 @@ permalink: /projets/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-Coming Soon!
-{% endif %}
+
+{% for post in site.project %}
+  {% include archive-single.html %}
+{% endfor %}
 
