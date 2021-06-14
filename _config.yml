@@ -9,7 +9,7 @@
 locale                   : "en-CAN"
 title                    : "Maude Lachaine <br /> Quantifies Uncertainty with Computational Statistics"
 title_separator          : "-"
-name                     : &name "Maude Best"
+name                     : &name "Maude Lachaine"
 description              : &description "Computational Statistics"
 url                      : "https://semaphore-maude.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -189,6 +189,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/    
 
 
 # Defaults
@@ -246,6 +249,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      
+  # _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
 
 # Sass/SCSS
 sass:
