@@ -189,7 +189,7 @@ collections:
 #   talks:
 #     output: true
 #     permalink: /:collection/:path/
-  docs:
+  sfu_docs:
     output: true
     permalink: /:collection/:path/    
   projects:
@@ -238,7 +238,7 @@ defaults:
   # _sfu_docs
   - scope:
       path: ""
-      type: docs
+      type: sfu_docs
     values:
       layout: single
       author_profile: true
