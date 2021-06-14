@@ -10,7 +10,3 @@ author_profile: true
 Private section
 
 
-{% for post in site.sfu_docs %}
-  {% include archive-single.html %}
-{% endfor %}
-
