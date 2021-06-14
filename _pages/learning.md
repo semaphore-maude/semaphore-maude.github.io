@@ -9,9 +9,9 @@ author_profile: true
 
 New Posts Coming Soon!
 
-<!-- 
+
 {% for post in site.learning reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
- -->
+
