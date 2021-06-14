@@ -177,18 +177,30 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
+  docs:
     output: true
-    permalink: /:collection/:path/
-  publications:
+    permalink: /:collection/:path/    
+  projects:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
+    permalink: /:collection/:path/    
+  learning:
     output: true
-    permalink: /:collection/:path/
-  talks:
+    permalink: /:collection/:path/        
+  tutoring:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/       
   cv:
     output: true
     permalink: /:collection/:path/    
@@ -214,42 +226,41 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _tutoring
   - scope:
       path: ""
-      type: teaching
+      type: tutoring
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _sfu_docs
   - scope:
       path: ""
-      type: publications
+      type: docs
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _learning
   - scope:
       path: ""
-      type: talks
+      type: learning
     values:
       layout: talk
       author_profile: true
-      share: true
-      
+      share: true 
   # _cv
   - scope:
       path: ""
