@@ -10,6 +10,9 @@ main:
   - title: "Tutoring"
     url: /tutoring/    
     
+  - title: "Consulting"
+    url: /consulting/        
+    
   - title: "CV"
     url: /cv/
     
