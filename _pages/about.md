@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Maude's Academic Personal Website"
-subtitle: "Uncertainty Quantification, Computational Statistics"
+title: "Maude Quantifies Uncertainty"
+subtitle: "Quantifying Uncertainty with Computational Statistics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,4 +10,4 @@ redirect_from:
 ---
 
 
-Coming Soon!
+Under construction
