@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false, "google", "google-universal" - this is the one academicpages uses, "custom"
   google:
     tracking_id          :
 
@@ -226,6 +226,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      comments: true      
   # _tutoring
   - scope:
       path: ""
@@ -242,7 +244,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comments: true
   # _projects
   - scope:
@@ -258,7 +259,7 @@ defaults:
       path: ""
       type: learning
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true 
   # _cv
@@ -267,9 +268,7 @@ defaults:
       type: cv
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true      
+      author_profile: true    
 
 # Sass/SCSS
 sass:
