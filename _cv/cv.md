@@ -2,7 +2,8 @@
 title: "cv"
 collection: cv
 type: "cv"
-permalink: /projects/cv
+permalink: /cv/cv
+date: 2021-06-18
 
 ---
 
@@ -10,3 +11,4 @@ permalink: /projects/cv
 
 Linky link
 ======
+
